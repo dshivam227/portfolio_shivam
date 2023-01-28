@@ -21,7 +21,7 @@ const About = () => {
                 <div className="about__data grid">
                     <div className="about__info">
                         <p className="about__description">
-                            Hello! I'm Shivam Dubey, and I'm based in Gorakhpur,Uttar Pradesh. I am currently studying at Madan Mohan Malaviya University of technology, where I am pursuing B.Tech in Information Technology.<br /><br />
+                            Hello! I'm Shivam Dubey, and I'm based in Gorakhpur, Uttar Pradesh. I am currently studying at Madan Mohan Malaviya University of technology, where I am pursuing B.Tech in Information Technology.<br /><br />
                             Fastforward to today,My current focus these days is on expanding my portfolio by building more projects that I can add on here, as well as being a great team player.<br /><br />
                             Here are a few technologies I’ve been working with recently:
                         </p>
