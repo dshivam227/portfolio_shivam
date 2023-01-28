@@ -2,7 +2,7 @@ import React from 'react';
 import './About.css';
 // import Image from '../../assets/avatar-2.svg';
 import Image from '../../assets/toon.jpg';
-import Resume from '../../assets/resume.pdf';
+import Resume from '../../assets/Shivam Dubey Resume 2024 (1).pdf';
 import AboutBox from './AboutBox';
 
 const About = () => {
@@ -33,7 +33,7 @@ const About = () => {
                             <li>SQL</li>
                             {/* <li>NestJS</li> */}
                         </ul>
-                        <button className="btn" onClick={downloadResume}>Donwload CV</button>
+                        <button className="btn" onClick={downloadResume}>Download Resume</button>
                     </div>
                     <br />
                     <div className="about__skills grid">
