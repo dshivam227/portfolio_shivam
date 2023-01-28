@@ -21,7 +21,7 @@ const HeaderSocials = () => {
                 <FaLinkedinIn />
             </a>
 
-            <a href='https://wwww.facebook.com/shivamdubey_16' className='home__social-link' target='_blank' rel='noreferrer'>
+            <a href='https://wwww.facebook.com/dshivam227' className='home__social-link' target='_blank' rel='noreferrer'>
                 <FaFacebookF />
             </a>
 
