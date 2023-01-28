@@ -1,16 +1,16 @@
-import React, { useState } from "react";
-import { toast, ToastContainer } from "react-toastify";
-import emailjs from "@emailjs/browser";
+// import React, { useState } from "react";
+import {  ToastContainer } from "react-toastify";
+// import emailjs from "@emailjs/browser";
 
 import "./Contact.css";
 import "react-toastify/dist/ReactToastify.css";
 
 const Contact = (props) => {
-    const [name, setName] = useState("");
-    const [email, setEmail] = useState("");
-    const [subject, setSubject] = useState("");
-    const [message, setMessage] = useState("");
-    const [loading, setLoading] = useState(false);
+    // const [name, setName] = useState("");
+    // const [email, setEmail] = useState("");
+    // const [subject, setSubject] = useState("");
+    // const [message, setMessage] = useState("");
+    // const [loading, setLoading] = useState(false);
 
    
 
