@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="http://gregsithole.com">
+  
   <img src="./src/assets/light-logo.svg" alt="GregSithole" width="200"></a>
   <br>
   Greg Sithole's Personal Website
