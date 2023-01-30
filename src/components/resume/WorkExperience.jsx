@@ -5,7 +5,7 @@ const WorkExperience = [
         company: "Microsoft",
         yearsActive: "April 2022 - May 2022",
         information: [
-            "Write modern, performant, maintainable code for a internal projects",
+            "Wrote modern, performant, maintainable code for internal projects",
             "Worked on Recommendation System using cosine predictability",
         ],
     },
@@ -16,7 +16,7 @@ const WorkExperience = [
         company: "Solvaphile",
         yearsActive: "Dec 2022 - Present",
         information: [
-            "Writing well researched and engaging content for the website and social media platforms",
+            "Delivering well researched and engaging content for the Educational websites and social media platforms",
             
         ],
     },
@@ -26,7 +26,7 @@ const WorkExperience = [
         company: "KaroStartup",
         yearsActive: "November 2022- Present",
         information: [
-            "Worked to support the senior support staff with day-to-day tasks.",
+            " Supporting the senior support staff with day-to-day tasks.",
             "Assisting with the evaluation and troubleshooting on various issues.",
             // "Maintaining computer Inventory & surplus equipment."
         ],
@@ -37,7 +37,7 @@ const WorkExperience = [
         company: "Techcurators",
         yearsActive: "Jan 2022 - June 2022",
         information: [
-            "Improved and optimized for a seamless customer experience",
+            "Improved and optimized Codebase for a seamless customer experience",
             "Created, communicated, and managed project plans & project timelines",
             "Worked to continually meet the expectation of our clients",
         ],
