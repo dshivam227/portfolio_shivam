@@ -6,6 +6,22 @@ const Menu = [
     {
         id: 1,
         image: Work1,
+        title: "Bus Yatra",
+        category: ["All", "Mern"],
+        // url: "https://akhaada.pages.dev/",
+        repositoryUrl: "https://github.com/dshivam227/Bus-yatra"
+    },
+    {
+        id: 1,
+        image: Work2,
+        title: "Gofood",
+        category: ["All", "Mern"],
+        // url: "https://akhaada.pages.dev/",
+        repositoryUrl: "https://github.com/dshivam227/gofood"
+    },
+    {
+        id: 1,
+        image: Work1,
         title: "Gym Website",
         category: ["Frontend", "React"],
         url: "https://akhaada.pages.dev/",

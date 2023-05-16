@@ -35,7 +35,7 @@ const Portfolio = () => {
                     Angular
                 </span> */}
                 <span className={activeFilter === 4 ? 'portfolio__item portfolio__item-active' : 'portfolio__item'} onClick={() => { filterItems("React"); setActiveFilter(4) }}>
-                    React
+                    Mern
                 </span>
             </div>
 

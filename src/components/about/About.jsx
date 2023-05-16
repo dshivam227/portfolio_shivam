@@ -2,7 +2,7 @@ import React from 'react';
 import './About.css';
 // import Image from '../../assets/avatar-2.svg';
 import Image from '../../assets/toon.jpg';
-import Resume from '../../assets/Shivam Dubey Resume 2024 (1).pdf';
+import Resume from '../../assets/resume.pdf';
 import AboutBox from './AboutBox';
 
 const About = () => {

@@ -1,6 +1,16 @@
 const WorkExperience = [
     {
         id: 1,
+        title: "Full Stack Developer Intern",
+        company: "Docsup Pvt. Ltd.",
+        yearsActive: "April 2023 - May 2023",
+        information: [
+            "Worked on Real time projects based on Automation. Designed Dashboard for Execution of Registration and Status check of the Users.",
+            "Worked on ReactJS, NextJS, Material UI etc.",
+        ],
+    }, 
+    {
+        id: 2,
         title: "Microsoft Engage Intern",
         company: "Microsoft",
         yearsActive: "April 2022 - May 2022",
@@ -11,7 +21,7 @@ const WorkExperience = [
     },
   
     {
-        id: 2,
+        id: 3,
         title: "Content Writer",
         company: "Solvaphile",
         yearsActive: "Dec 2022 - Present",
@@ -21,7 +31,7 @@ const WorkExperience = [
         ],
     },
     {
-        id: 3,
+        id: 4,
         title: "Proofreader",
         company: "KaroStartup",
         yearsActive: "November 2022- Present",
@@ -32,7 +42,7 @@ const WorkExperience = [
         ],
     },
     {
-        id: 4,
+        id: 5,
         title: "QA Analyst",
         company: "Techcurators",
         yearsActive: "Jan 2022 - June 2022",
@@ -43,7 +53,7 @@ const WorkExperience = [
         ],
     },
     {
-        id: 5,
+        id: 6,
         title: "SOL Intern",
         company: "Under 25",
         yearsActive: "November 2021 - October 2022",
